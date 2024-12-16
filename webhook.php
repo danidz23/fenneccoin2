@@ -60,7 +60,7 @@ if ($text === '/start') {
         'reply_markup' => json_encode([
             'inline_keyboard' => [
                 [
-                    ['text' => 'Play FennecCoin Now', 'web_app' => ['url' => 'https://app.companybro.com']],
+                    ['text' => 'Play FennecCoin Now', 'web_app' => ['url' => 'fennec-coin-hiw6.vercel.app']],
                     ['text' => 'Join Our Community', 'url' => 'https://t.me/companybrodigital']]
             ]
         ])
